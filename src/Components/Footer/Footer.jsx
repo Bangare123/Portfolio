@@ -9,8 +9,8 @@ const Footer = () => {
       <div className="footer-top">
         <div className="footer-top-left">
           {/* <img src={footer_logo} alt="" /> */}
-          <div className="title-box">
-            <h2>Aditya</h2>
+          <div className="title-box1">
+            <h1>Aditya</h1>
             <img src={theme_pattern} alt="" />
           </div>
           <p>
