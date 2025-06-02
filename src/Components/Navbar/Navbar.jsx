@@ -22,7 +22,7 @@ const Navbar = () => {
     <div className="navbar">
       {/* <img src={logo} alt="" className="logo" /> */}
       <div className="title-box">
-        <h1>Aditya2</h1>
+        <h1>Aditya3</h1>
         <img src={theme_pattern} alt="" />
       </div>
 
