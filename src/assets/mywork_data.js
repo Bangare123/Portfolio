@@ -16,11 +16,13 @@ const mywork_data = [
     w_no: 2,
     w_name: "Resume Builder ",
     w_img: project2_img,
+    w_link: "https://github.com/Bangare123/ResumeBuilder1",
   },
   {
     w_no: 3,
     w_name: "Fashion-Store",
     w_img: project3_img,
+    w_link: "https://github.com/Bangare123/ResumeBuilder1",
   },
   // {
   //     w_no:4,
