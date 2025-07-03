@@ -2,6 +2,7 @@ import "./About.css";
 import theme_pattern from "../../assets/theme_pattern.svg";
 //import profile_img from "../../assets/about_profile.svg";
 import profile_img2 from "../../assets/Profile4.png";
+import { FaGithub } from "react-icons/fa";
 
 const About = () => {
   return (
@@ -60,8 +61,14 @@ const About = () => {
         </div>
         <hr />
         <div className="about-achievement">
-          <h1>1+</h1>
-          <p>HAPPY CLIENTS</p>
+          <a
+            href="https://github.com/yourusername"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <FaGithub size={30} color="#FFF" />
+          </a>
+          <p>Github</p>
         </div>
       </div>
     </div>
