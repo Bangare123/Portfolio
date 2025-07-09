@@ -1,6 +1,6 @@
 import project1_img from "../assets/DashboardMain.png";
 import project2_img from "../assets/ResumeBuilderMain.png";
-import project3_img from "../assets/FashionStoreMain.png";
+import project3_img from "../assets/Fashion.png";
 // import project4_img from '../assets/project_4.svg'
 // import project5_img from '../assets/project_5.svg'
 // import project6_img from '../assets/project_6.svg'
@@ -20,7 +20,7 @@ const mywork_data = [
   },
   {
     w_no: 3,
-    w_name: "Fashion-Store",
+    w_name: "Fashion",
     w_img: project3_img,
     w_link: "https://github.com/Bangare123/E-Commerce",
   },
