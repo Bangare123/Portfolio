@@ -1,6 +1,6 @@
 import "./Hero.css";
 //import profile_img from "../../assets/profile_img.svg";
-import AnchorLink from "react-anchor-link-smooth-scroll";
+//import AnchorLink from "react-anchor-link-smooth-scroll";
 import profile_img2 from "../../assets/Profile4.png";
 
 const Hero = () => {
@@ -17,10 +17,26 @@ const Hero = () => {
       </p>
       <div className="hero-action">
         <div className="hero-connect">
-          <AnchorLink className="anchor-link" offset={50} href="#contact">
-            Connect with me
-          </AnchorLink>
+          <a
+            className="anchor-link"
+            href="https://www.linkedin.com/in/aditya-r-bangare-164196191"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+              alt="LinkedIn"
+              style={{
+                width: "24px",
+                height: "24px",
+                marginRight: "8px",
+                verticalAlign: "middle",
+              }}
+            />
+            LinkedIn
+          </a>
         </div>
+
         <div className="hero-resume">My resume</div>
       </div>
     </div>

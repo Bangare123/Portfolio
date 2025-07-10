@@ -90,6 +90,17 @@
   transform: scale(1.1);
   transition: 0.3s;
 }
+
+.email-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.email-link:hover {
+  text-decoration: underline;
+  color: #0072b1; /* Optional: LinkedIn blue or your theme color */
+}
+
 @media (max-width: 768px) {
   .contact {
     gap: 40px;
