@@ -62,7 +62,7 @@ const About = () => {
         <hr />
         <div className="about-achievement">
           <a
-            href="https://github.com/Bangare123?tab=repositories"
+            href="https://github.com/Bangare123"
             target="_blank"
             rel="noopener noreferrer"
           >
