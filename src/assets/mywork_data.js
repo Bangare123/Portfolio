@@ -1,4 +1,4 @@
-import project1_img from "../assets/Japanese_Sushi.png";
+import project1_img from "../assets/Japanese_sushi.png";
 import project2_img from "../assets/React_CRUD.png";
 import project3_img from "../assets/ASA_Agrotech.png";
 // import project4_img from '../assets/project_4.svg'
