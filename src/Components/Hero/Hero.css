@@ -56,6 +56,8 @@
 .hero-resume:hover {
   border-color: #b415ff;
 }
+
+
 @media (max-width: 768px) {
   .profile-img {
     margin-top: 50px;
