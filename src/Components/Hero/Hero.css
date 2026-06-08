@@ -47,6 +47,8 @@
   border-radius: 50px;
   border: 2px solid #fff;
   cursor: pointer;
+  color: white;
+  font-size: 20px;
 }
 .hero-connect:hover {
   border-color: #b415ff;
