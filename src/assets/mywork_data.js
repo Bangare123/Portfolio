@@ -1,6 +1,6 @@
-import project1_img from "../assets/DashboardMain.png";
-import project2_img from "../assets/ResumeBuilderMain.png";
-import project3_img from "../assets/Fashion.png";
+import project1_img from "../assets/Japanese_Sushi.png";
+import project2_img from "../assets/React_CRUD.png";
+import project3_img from "../assets/ASA_Agrotech.png";
 // import project4_img from '../assets/project_4.svg'
 // import project5_img from '../assets/project_5.svg'
 // import project6_img from '../assets/project_6.svg'
@@ -8,21 +8,21 @@ import project3_img from "../assets/Fashion.png";
 const mywork_data = [
   {
     w_no: 1,
-    w_name: "Dashboard",
+    w_name: "Japanese_Sushi",
     w_img: project1_img,
-    w_link: "https://admineaseweb.netlify.app/",
+    w_link: "https://japanesesushibyaditya.netlify.app/",
   },
   {
     w_no: 2,
-    w_name: "Resume Builder ",
+    w_name: "CRUD_React ",
     w_img: project2_img,
-    w_link: "https://github.com/Bangare123/ResumeBuilder1",
+    w_link: "https://crudreactvite.netlify.app/",
   },
   {
     w_no: 3,
-    w_name: "Fashion",
+    w_name: "ASA_Agrotech",
     w_img: project3_img,
-    w_link: "https://github.com/Bangare123/E-Commerce",
+    w_link: "https://asaagrotech.netlify.app/",
   },
   // {
   //     w_no:4,
